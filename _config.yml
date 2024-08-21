@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Milwaukee, WI"
-title                    : "SWE @ Lightkeeper"
+title                    : "Sam Miller"
 title_separator          : "-"
 name                     : &name "Sam Miller"
 description              : &description "personal description"
@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "portrait.png"
+  name             : "Sam Miller"
   pronouns         : # example: "she/her"  
-  bio              : "Recent CS Grad and Current SWE"
-  location         : "Boston"
+  bio              : "SWE @ Lightkeeper"
+  location         : "Boston, MA"
   employer         : "Tufts University"
-  uri              : # URL
+  uri              : 'https://engineering.tufts.edu/cs/current-students/undergraduate'
   email            : "samsharifmiller@lightkeeper.com"
 
   # Academic websites
